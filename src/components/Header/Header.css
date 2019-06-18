@@ -1,0 +1,13 @@
+h1 {
+  margin: 0;
+  text-align: center;
+  font-family: "Swanky and Moo Moo", cursive;
+  font-size: 60px;
+}
+header {
+  /* background: url(../../common/kosmonavt_skafandr_raznotsvetnyj_123724_1920x1080.jpg); */
+  min-height: 100px;
+  color: #fff; /* Цвет текста */
+  white-space: nowrap; /* Запрещаем переносы текста */
+  padding-left: 20px; /* Отступ слева */
+}

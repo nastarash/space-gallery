@@ -1,0 +1,12 @@
+.thumbnail {
+  height: 300px;
+  width: 300px;
+  border: 10px white solid;
+  border-radius: 20px 20px;
+  margin: 10px;
+}
+.thumbnail:hover {
+  opacity: 0.5;
+  /* content: url('../../common/eye-icon.png'); */
+  content: icon;
+}
